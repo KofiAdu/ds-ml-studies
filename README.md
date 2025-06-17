@@ -1,6 +1,6 @@
 # Machine Learning & Data Science Projects
 
-This repository contains a collection of Jupyter notebooks I created while learning core Machine Learning and Data Science algorithms. Each notebook focuses on a specific concept or model, with hands-on examples, explanations, and visualizations.
+This repository contains a collection of Jupyter notebooks I created while learning core Machine Learning algorithms. Each notebook focuses on a specific concept or model, with hands-on examples, explanations, and visualizations.
 
 ## Contents
 
